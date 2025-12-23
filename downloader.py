@@ -3,7 +3,7 @@ import yt_dlp
 import os
 
 # MASUKKIN TOKEN LU DI SINI, LANGSUNG!
-TOKEN = '8267618827:AAGYZtuOVCW5xQRAubahLRICkrFISwCzubE'
+TOKEN = 'MASUKKAN_TOKEN_ANDA'
 bot = telebot.TeleBot(TOKEN)
 
 # ==========================================
@@ -48,4 +48,5 @@ def download_video(message):
         bot.edit_message_text(f"❌ **GAGAL!**\n`Error: {str(e)}`", message.chat.id, msg.message_id)
 
 print("🐉 BLACK DRAGON SIMPLE DOWNLOADER (TOKEN ONLY) IS RUNNING!")
+
 bot.infinity_polling()
