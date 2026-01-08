@@ -7,4 +7,4 @@ Bot Telegram berbasis Python untuk mengunduh video dari berbagai platform media 
 video via link/dl https://vt.tiktok.com/xxx//downloadSama
 seperti /dl/download https://www.instagram.com/reels/xxx//
 idCek ID pengguna/grup/id⚠️ Catatan PentingPrivacy Mode: Di @BotFather, pastikan Bot Settings > Group Privacy disetel ke DISABLED supaya bot bisa baca link di grup.
-Admin Group: Sangat disarankan menjadikan bot sebagai admin agar tidak terkena pembatasan saat mengirim file video.Coded By putra🖤 
+Admin Group: Sangat disarankan menjadikan bot sebagai admin agar tidak terkena pembatasan saat mengirim file video.Coded By putra
